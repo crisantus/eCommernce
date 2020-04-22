@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383645109969",
+    "firebase_url": "https://ecommernce-b62c1.firebaseio.com",
+    "project_id": "ecommernce-b62c1",
+    "storage_bucket": "ecommernce-b62c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383645109969:android:e54af16d060690bb7c7ff0",
+        "android_client_info": {
+          "package_name": "com.example.ecommernce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383645109969-fas8fvqohf812ti274ggf2v0b5vcttg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSvhxlPsa_dunJjH3bVQYjiAhNQjYgRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383645109969-fas8fvqohf812ti274ggf2v0b5vcttg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
